@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-11-02 19:21+0800\n"
+"PO-Revision-Date: 2022-11-02 19:21+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin.php:2
+msgid "Player Settings"
+msgstr ""
+
+#: inc/admin.php:8
+msgid "Save successfully"
+msgstr ""
+
+#: inc/admin.php:16 inc/admin.php:25
+msgid "Enable"
+msgstr ""
+
+#: inc/admin.php:20
+msgid "Live video (HTTP Live Streaming, M3U8 format) support"
+msgstr ""
+
+#: inc/admin.php:29
+msgid "Support FLV format"
+msgstr ""
+
+#: inc/admin.php:34
+msgid "Live mode"
+msgstr ""
+
+#: inc/admin.php:38
+msgid "Using live mode will hide the progress bar and play time"
+msgstr ""
+
+#: inc/admin.php:43 inc/admin_menus.php:6
+msgid "Danmuku"
+msgstr ""
+
+#: inc/admin.php:47
+msgid "Enable Danmuku, Danmuku data will be stored in the database"
+msgstr ""
+
+#: inc/admin.php:52
+msgid "Cover of the video"
+msgstr ""
+
+#: inc/admin.php:53
+msgid ""
+"The cover of the video, which will only appear when the player is "
+"initialized and not playing"
+msgstr ""
+
+#: inc/admin.php:58
+msgid "Player theme colors"
+msgstr ""
+
+#: inc/admin.php:59
+msgid ""
+"Player theme color, currently only works on the progress bar. e.g #ffad00"
+msgstr ""
+
+#: inc/admin.php:64
+msgid "Default volume"
+msgstr ""
+
+#: inc/admin.php:65
+msgid "Default volume of the player: 0-1 range"
+msgstr ""
+
+#: inc/admin.php:69 inc/admin.php:73
+msgid "Enable on the mute"
+msgstr ""
+
+#: inc/admin.php:78
+msgid "Autoplay"
+msgstr ""
+
+#: inc/admin.php:82
+msgid "Video autoplay when enabled"
+msgstr ""
+
+#: inc/admin.php:87 inc/admin.php:91
+msgid "Loop Play"
+msgstr ""
+
+#: inc/admin.php:97
+msgid "Mini Play mode"
+msgstr ""
+
+#: inc/admin.php:101
+msgid ""
+"When the player scrolls outside the browser viewport, automatically enter "
+"the mini play mode"
+msgstr ""
+
+#: inc/admin.php:106
+msgid "Display playback speed"
+msgstr ""
+
+#: inc/admin.php:110
+msgid ""
+"Whether the video playback speed function is displayed, it will appear in "
+"the setting panel and contextmenu"
+msgstr ""
+
+#: inc/admin.php:115
+msgid "Screenshot"
+msgstr ""
+
+#: inc/admin.php:119
+msgid "Whether to display video screenshots in the bottom control bar"
+msgstr ""
+
+#: inc/admin.php:124
+msgid "PIP"
+msgstr ""
+
+#: inc/admin.php:128
+msgid "Whether to display the PIP switch button in the bottom control bar"
+msgstr ""
+
+#: inc/admin.php:133
+msgid "Mini Progress Bar"
+msgstr ""
+
+#: inc/admin.php:137
+msgid ""
+"Mini progress bar, only appears when the player loses focus and is playing"
+msgstr ""
+
+#: inc/admin.php:142
+msgid "Lock button"
+msgstr ""
+
+#: inc/admin.php:146
+msgid ""
+"Whether to display a lock button on the mobile side to hide the bottom "
+"control bar"
+msgstr ""
+
+#: inc/admin.php:151
+msgid "Long press video fast forward"
+msgstr ""
+
+#: inc/admin.php:155
+msgid ""
+"Whether to add fast forward function on the mobile, when long press the video"
+msgstr ""
+
+#: inc/admin.php:160
+msgid "Automatic playback"
+msgstr ""
+
+#: inc/admin.php:164
+msgid "Whether to use auto playback"
+msgstr ""
+
+#: inc/admin.php:169
+msgid "Mobile Spin Player"
+msgstr ""
+
+#: inc/admin.php:173
+msgid ""
+"Whether to rotate the player according to the video size and viewport size, "
+"when the player web-fullscreen in mobile"
+msgstr ""
+
+#: inc/admin.php:182
+msgid ""
+"Whether to display the AirPlay button, only available in Safari currently"
+msgstr ""
+
+#: inc/admin.php:187
+msgid "Player Language"
+msgstr ""
+
+#: inc/admin.php:190
+msgid "Automatic language selection"
+msgstr ""
+
+#: inc/admin.php:191
+msgid "Simplified Chinese"
+msgstr ""
+
+#: inc/admin.php:192
+msgid "Traditional Chinese(Taiwan Region)"
+msgstr ""
+
+#: inc/admin.php:193
+msgid "English"
+msgstr ""
+
+#: inc/admin.php:194
+msgid "Czech"
+msgstr ""
+
+#: inc/admin.php:195
+msgid "Polish"
+msgstr ""
+
+#: inc/admin.php:196
+msgid "Spanish"
+msgstr ""
+
+#: inc/admin.php:202
+msgid "setting"
+msgstr ""
+
+#: inc/admin.php:204
+msgid "Save setting"
+msgstr ""
+
+#: inc/admin_menus.php:23
+msgid "Danmuku List"
+msgstr ""
+
+#: inc/admin_menus.php:23
+msgid "Sure you want to delete all the danmuku?"
+msgstr ""
+
+#: inc/admin_menus.php:23
+msgid "Delete all danmuku"
+msgstr ""
+
+#: inc/admin_menus.php:26
+msgid "Danmuku Content:"
+msgstr ""
+
+#: inc/admin_menus.php:27
+msgid "Input Danmuku Content"
+msgstr ""
+
+#: inc/admin_menus.php:32
+msgid "Search Danmuku"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:65
+msgid "Post"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:66
+msgid "User Id"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:67
+msgid "Danmuku Content"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:68
+msgid "Danmuku Time"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:69
+msgid "Danmuku Send time"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:192 inc/class/DanmulistTable.php:221
+msgid "Delete"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:215
+msgid "Restore"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:216
+msgid "Delete Permanently"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:218
+msgid "Move to Trash"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:225
+msgid "Attach"
+msgstr ""
+
+#: inc/class/DanmulistTable.php:235 inc/class/DanmulistTable.php:243
+#: inc/class/DanmulistTable.php:253
+msgid "Check Failure"
+msgstr ""
+
+#: inc/main.php:141
+msgid "Add Artplayer player"
+msgstr ""
+
+#: inc/main.php:147
+msgid "Video URL"
+msgstr ""
+
+#: inc/main.php:148
+msgid "Video Play URL"
+msgstr ""
+
+#: inc/main.php:148
+msgid "Media Library"
+msgstr ""
+
+#: inc/main.php:151
+msgid "Video Type"
+msgstr ""
+
+#: inc/main.php:171 inc/main.php:172
+msgid "Player height"
+msgstr ""
+
+#: inc/main.php:175 inc/main.php:176
+msgid "Player Width"
+msgstr ""
+
+#: inc/main.php:180
+msgid "Insert Player Shortcode"
+msgstr ""
+
+#: inc/main.php:211 inc/main.php:213
+msgid "Add video"
+msgstr ""
+
+#: templates/artplayer.php:48
+msgid "Unsupported playback format: m3u8"
+msgstr ""
+
+#~ msgid "请填写所有字段"
+#~ msgstr "Please fill in all fields"
+
+#~ msgid "错误: "
+#~ msgstr "error:"
+
+#~ msgid "用户名或密码错误!"
+#~ msgstr "wrong user name or password!"
+
+#~ msgid "登录成功, 正在跳转..."
+#~ msgstr "Login successful, jumping…"
+
+#~ msgid "请输入用户名!"
+#~ msgstr "Please enter user name!"
+
+#~ msgid "密码至少为6位数!"
+#~ msgstr "Password must be at least 6 digits!"
+
+#~ msgid "请填写所有字段."
+#~ msgstr "Please fill in all fields."
+
+#~ msgid "该电子邮件不存在！"
+#~ msgstr "This email does not exist!"
+
+#~ msgid "退出"
+#~ msgstr "Sign out"
+
+#~ msgid "我的预定"
+#~ msgstr "My booking"
+
+#~ msgid "注册"
+#~ msgstr "Register"
+
+#~ msgid "登录"
+#~ msgstr "Login"
+
+#~ msgid ""
+#~ "<p class=\"alert alert-danger\" data-alert=\"alert\">请填写所有字段</p>"
+#~ msgstr ""
+#~ "<p class=“alert alert-danger” data-alert=“alert”>모든 항목을 작성 해주세요"
+#~ "</p>"
+
+#~ msgid ""
+#~ "<p class=\"alert alert-danger\" data-alert=\"alert\"><strong>错误</"
+#~ "strong>: 用户名或密码错误!</p>"
+#~ msgstr ""
+#~ "<p class=“alert alert-danger” data-alert=“alert”><strong>실수</strong>: 잘"
+#~ "못된 사용자 이름 또는 암호!</p>"
+
+#~ msgid ""
+#~ "<p class=\"alert alert-success\" data-alert=\"alert\">登录成功, 正在跳"
+#~ "转...</p>"
+#~ msgstr ""
+#~ "<p class=“alert alert-success” data-alert=“alert”>로그인 성공, 점프 중…</"
+#~ "p>"
