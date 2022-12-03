@@ -37,7 +37,7 @@ if(file_exists($file)){
   include $file;//载入配置
 }
 require_once WP_ARTDPLAYER_INC_PATH . 'main.php';
-require_once WP_ARTDPLAYER_INC_PATH . 'admin_menus.php';\
+require_once WP_ARTDPLAYER_INC_PATH . 'admin_menus.php';
 
 register_activation_hook( __FILE__, array( 'ART_MAIN_MI', 'install' ) );
 
